@@ -2,7 +2,7 @@
 
 Personal portfolio of **Fahmida Rahman**, CSE undergraduate, AI/ML researcher and full-stack web developer based in Dhaka, Bangladesh.
 
-**Live site:** https://fahmidaca.github.io/Fahmida-Rahman-Portfolio/
+**Live site:**  https://fahmidaca.github.io/Fahmida-Rahman-Portfolio-1/
 
 ## What's inside
 
